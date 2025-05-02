@@ -222,6 +222,7 @@ fn main() {
 
     cu.undo();
     cu.redo();
+    cu.undo();
 
     cu.print_countries();
 
