@@ -7,5 +7,3 @@ undo-redo implementaion using single stack
 cargo build
 cargo run
 ```
-
-xxxx
